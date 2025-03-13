@@ -1,8 +1,6 @@
 from selenium import webdriver
 
-
-# Установка зависимостей pip install selenium webdriver-manager
-# Инициализация драйвера
+# Поменял запись!!!
 
 driver = webdriver.Chrome()
 
