@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-# Поменял запись!!!
+# Поменял запись!!! Тестирую команду git revert
 
 driver = webdriver.Chrome()
 
